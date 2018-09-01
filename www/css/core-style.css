@@ -998,10 +998,12 @@ img {
       line-height: 1;
       margin-bottom: 5px;
       -webkit-transition-duration: 250ms;
+      text-shadow: 1px 1px 0 #fff;
       transition-duration: 250ms; }
     .single-products-catagory .hover-content h4 {
       margin-bottom: 0;
       -webkit-transition-duration: 250ms;
+      text-shadow: 1px 1px 0 #fff;
       transition-duration: 250ms; }
   .single-products-catagory:hover a::after, .single-products-catagory:focus a::after {
     opacity: 1;
