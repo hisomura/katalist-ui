@@ -275,7 +275,7 @@ img {
     .mobile-nav .amado-navbar-toggler span {
       width: 28px;
       height: 3px;
-      background-color: #fbb710;
+      background-color:#000000; /* #fbb710 */ 
       display: block;
       margin-bottom: 5px;
       border-radius: 2px; }
